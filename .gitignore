@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/RehamAli.UnitTests/obj
+/src/RehamAli.UnitTests/bin
+/src/RehamAli/obj
+/src/RehamAli/bin
+/.vs
