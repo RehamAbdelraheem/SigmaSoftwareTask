@@ -1,0 +1,6 @@
+@RehamAli_HostAddress = http://localhost:5048
+
+Post {{RehamAli_HostAddress}}/candidate/
+Accept: application/json
+
+###
